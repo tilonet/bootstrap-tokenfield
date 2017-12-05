@@ -29,8 +29,8 @@
     "form"
   ],
   "dependencies": {
-   "jquery": ">=2.1.0 <3.0.0",
-   "bootstrap": ">=3.1.1 <4.0.0"
+   "jquery": "~3.2.1",
+   "bootstrap": "~3.3.7"
   },
   "devDependecies": {
     "mocha": "~1.12.*",
